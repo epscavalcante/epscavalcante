@@ -1,4 +1,4 @@
-# Hi there, **Eduardo Cavalcante**, Fullstack developer! 👋
+# Hi there 👋
 
 <div align="center">
   <a href="https://github.com/epscavalcante">
