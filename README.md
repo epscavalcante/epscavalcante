@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## Eu sou **Eduardo Cavalcante**, Fullstack developer!
+# Hi there, **Eduardo Cavalcante**, Fullstack developer! 👋
 
 <div align="center">
   <a href="https://github.com/epscavalcante">
